@@ -65,6 +65,10 @@ author:
   bio    : "Training for the OSCP<br>Script Kiddie for life"
   github : "Kontari"
   location: "localhost"
+  links:
+    - label: " HackTheBox"
+      icon: "fas fa-cubes"
+      url : "https://app.hackthebox.com/users/683812"
 
 footer:
   links:
